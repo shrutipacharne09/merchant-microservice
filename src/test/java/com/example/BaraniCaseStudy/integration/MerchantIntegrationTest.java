@@ -97,6 +97,6 @@ public class MerchantIntegrationTest {
     static void reset() {
         createdMerchantId = null;
     }
-    
+
 
 }
